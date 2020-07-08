@@ -13,3 +13,7 @@ Slices are resized to 256x256, embedding vector is resized to 120.
 `train_cnn.py` trains the CNN and outputs PCA embeddings and predictions
 
 `train_lstm.py` train the LSTM and outputs the submission file 
+
+----------
+
+License: CC BY-NC-ND
