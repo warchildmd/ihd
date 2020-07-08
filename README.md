@@ -17,3 +17,5 @@ Slices are resized to 256x256, embedding vector is resized to 120.
 ----------
 
 License: CC BY-NC-ND
+This software is released un the CC BY-NC-ND license agreement.
+The software can be use for non-commercial purposes only.
