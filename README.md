@@ -1,3 +1,14 @@
+## Accurate and Efficient Intracranial Hemorrhage Detection and Subtype Classification in 3D CT Scans with Convolutional and Long Short-Term Memory Neural Networks
+
+Mihail Burduja, Radu Tudor Ionescu, Nicolae Verga, Sensors 2020, 20(19), 5611
+
+Official URL: https://www.mdpi.com/1424-8220/20/19/5611/pdf
+
+ArXiv URL: https://arxiv.org/abs/2008.00302
+
+This is the official repository of "Accurate and Efficient Intracranial Hemorrhage Detection and Subtype Classification in 3D CT Scans with Convolutional and Long Short-Term Memory Neural Networks".
+
+
 RSNA Intracranial Hemorrhage Detection (https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection) model
 
 ResNeXt + PCA + BiLSTM for 0.04989 on Private Test Dataset
